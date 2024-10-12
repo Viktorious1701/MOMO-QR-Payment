@@ -1,0 +1,6 @@
+@MOMO_QR_Payment_HostAddress = http://localhost:5143
+
+GET {{MOMO_QR_Payment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
